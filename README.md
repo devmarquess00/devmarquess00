@@ -1,12 +1,6 @@
-## 👋 Fala, eu sou o João Lucas
-
-Minhas Stacks
-
----
-
 ## 🚀 Tecnologias & Ferramentas
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,flutter,nextjs,nodejs,nestjs,tailwind,styledcomponents,postgres,prisma,redis,)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,tailwind,flutter,postgres,prisma,redis,)
 
 ---
 
