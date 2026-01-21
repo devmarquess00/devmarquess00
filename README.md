@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Fala, eu sou o João Lucas
 
-<!--
-**devmarquess00/devmarquess00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Minhas Stacks
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias & Ferramentas
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,flutter,nextjs,nodejs,nestjs,tailwind,styledcomponents,postgres,prisma,redis,)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devmarquess00&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmarquess00&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=devmarquess00&theme=dark)
+
+</div>
+
+
+---
+
+## 📫 Onde me encontrar
+
+- 💼 LinkedIn: https://linkedin.com/in/joão-lucas-marquess
+- 🧑‍💻 GitHub: https://github.com/devmarquess00  
+- ✉️ Email: joaoomarquesdev@email.com
